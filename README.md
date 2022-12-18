@@ -6,12 +6,16 @@
 - 📫 E-mail para contato: macielmatosb@hotmail.com, macielmatosb@gmail.com
 - 😄 Pronomes: Ela / Dela
 
+<br>
 
 <div align="center">
   <a href="https://github.com/BiancaMMatos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaMMatos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMMatos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <br>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Bianca-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   
