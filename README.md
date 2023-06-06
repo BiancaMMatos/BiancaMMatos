@@ -6,7 +6,6 @@
 - 🌱 Estudo Swift como principal linguagem de programação, me utilizando de frameworks de interface como: UIKit e SwiftUI
 - 🍎 Formada pela Apple Developer Academy | Mackenzie, turma 2021/2022
 - 📫 E-mail para contato: macielmatosb@hotmail.com, macielmatosb@gmail.com
-- 🔗 Meu LinkedIn é: https://www.linkedin.com/in/bianca-maciel-341684181/
 - 😄 Pronomes: Ela / Dela
 
 <br>
